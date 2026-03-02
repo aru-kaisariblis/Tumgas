@@ -1,0 +1,25 @@
+Algoritma mencari mahasiswa yang masuk kategori penerima beasiswa
+
+Definisi Variabel
+
+float ipk;
+boolean penerima_bl;
+int gaji_ortu;
+
+Rincian Langkah
+    
+    print("Masukkan ipk");
+    print("Apakah mahasiswa ini menerima beasiswa lain");
+    print("Masukkan Gaji Ortu");
+
+    write(ipk, penerima_bl, gaji_ortu)
+    read(ipk, penerima_bl, gaji_ortu)
+
+    {periksa kondisi variabel}
+    if(penerima_bl == false and ipk >= 3.50 and gaji_ortu <= 5000000)
+        print("anda penerima beasiswa")
+        else
+            print("bukan anda penerima beasiswa")
+
+
+
