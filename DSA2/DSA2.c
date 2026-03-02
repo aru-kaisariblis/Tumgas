@@ -69,7 +69,6 @@ int main() {
         }
     }
 
-    // Output Statistik
     printf("\n=== STATISTIK ===\n");
     printf("Jumlah Data Valid        : %d\n", jml_valid);
     printf("Jumlah Data Tidak Valid  : %d\n", jml_tidak_valid);
